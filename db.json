@@ -1,0 +1,52 @@
+{
+  "clientes": [
+    {
+      "nombre": "Leandro Actualizado",
+      "empresa": "EMPRESA",
+      "email": "leandro@gmail.com",
+      "telefono": "098858254",
+      "notas": "NOTA de prueba",
+      "id": 1
+    },
+    {
+      "nombre": "Leandro",
+      "empresa": "EMPRESA",
+      "email": "leandro@gmail.com",
+      "telefono": "098858254",
+      "notas": "NOTA de prueba",
+      "id": 5
+    },
+    {
+      "nombre": "Lucia",
+      "empresa": "Lu dise",
+      "email": "lu@gmail.com",
+      "telefono": "677474939",
+      "notas": "fddd",
+      "id": 8
+    },
+    {
+      "nombre": "hola",
+      "empresa": "soy",
+      "email": "un@correo.com",
+      "telefono": "89894839",
+      "notas": "nuevo cliente",
+      "id": 9
+    },
+    {
+      "nombre": "Persona",
+      "empresa": "nombrede empresa",
+      "email": "correo@correo.com",
+      "telefono": "89348383",
+      "notas": "ds",
+      "id": 10
+    },
+    {
+      "nombre": "Nuevo",
+      "empresa": "Una empresa",
+      "email": "uncorreo@correo.com",
+      "telefono": "45454545",
+      "notas": "dsds",
+      "id": 11
+    }
+  ]
+}
